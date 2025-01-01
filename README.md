@@ -1,1 +1,6 @@
 # event-mgt-MERN
+This project is an online marketplace built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to connect buyers and sellers of handmade goods. The platform allows users to browse and purchase unique handmade items with an intuitive interface, providing a smooth shopping experience. As part of the project, I’ve implemented an Event Management feature, where customers can view, join, and manage events related to the marketplace.
+
+My specific function in this project is Event Management, which includes the ability to add, update, delete, and read event details. Through this feature, admins can create new events, update existing ones, or delete events as needed. Customers can participate in events without the need for prior registration by simply clicking on a Zoom link provided for each event. This function enhances user interaction with the platform, offering live sessions, workshops, or product launches in a hassle-free manner.
+
+The event management system is integrated seamlessly into the platform, providing a user-friendly experience for both admins and customers. Customers can easily join the events without the requirement for an account, making it more accessible and open to a larger audience
